@@ -1,4 +1,4 @@
-# windows-logging-soc-lab-notes
+
 
 # Windows Logging for SOC — TryHackMe
 
