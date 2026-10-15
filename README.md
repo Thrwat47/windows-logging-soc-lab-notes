@@ -67,7 +67,6 @@ Hands-on notes from the TryHackMe Windows Logging for SOC room.
 I learned how to investigate Windows activity by correlating Sysmon events across processes, files, registry changes, network connections, and DNS queries. This helped me trace malware persistence and identify its command-and-control activity.
 ## Screenshots
 
-[TryHackMe — Windows Logging for SOC](https://tryhackme.com/room/windowsloggingforsoc)
 
 
 <img width="1920" height="1032" alt="Screenshot 2026-09-28 020018" src="https://github.com/user-attachments/assets/900c1f78-b589-4299-b129-57625234bc94" /><img width="1920" height="1032" alt="Screenshot 2026-09-28 020235" src="https://github.com/user-attachments/assets/b84ae808-7632-43a2-af9e-9e464504f90c" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/a52ab82a-bb25-43c6-a07c-e0732c241869" />
