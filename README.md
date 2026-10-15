@@ -48,12 +48,12 @@ Hands-on notes from the TryHackMe Windows Logging for SOC room.
 ## Findings
 
 - **Suspicious file:** C:\Users\sarah.miller\Downloads\ckjg.exe
-- **C2 IP and port:** 193.46.217.4:7777
-- **Related domain:** hkfasfsafg.click
+- **C2 IP and port:** 193[.]46[.]217[.]4:7777
+- **Related domain:** hkfasfsafg[.]click
 - **Evidence:** 
 - **Process event:** Sysmon Event ID 1 showed `(ckjg.exe) running from `C:\Users\sarah.miller\Downloads\ckjg.exe`.
 - **Persistence evidence:** A related file or registry event showed `[C:\Users\sarah.miller\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\DeleteApp.url]`.
-- **Network evidence:** A related network event showed a connection to `[193.46.217.4]:[7777]`.
+- **Network evidence:** A related network event showed a connection to `193[.]46[.]217[.]4:7777`.
 - **Persistence evidence:** Sysmon Event ID 11 recorded `DeleteApp.url` in the user's Startup folder.
 - **DNS evidence:** Sysmon Event ID 22 recorded the query for `hkfasfsafg.click`.
 - **Correlation:** I linked the events by Process ID and timestamp.
