@@ -41,9 +41,9 @@ Hands-on notes from the TryHackMe Windows Logging for SOC room.
 - **1** — Process creation
 - **3** — Network connection
 - **11** — File creation
-**12–14** — Registry changes
-**15** — File stream hash
-**22** — DNS query
+- **12–14** — Registry changes
+- **15** — File stream hash
+- **22** — DNS query
 
 ## Findings
 
