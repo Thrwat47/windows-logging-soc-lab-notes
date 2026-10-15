@@ -26,8 +26,8 @@ Hands-on notes from the TryHackMe Windows Logging for SOC room.
 6. Record evidence and summarize the timeline.
 
 ## Key Event IDs Reviewed
-**4624** — Successful Login /n
-**4625**  — Failed Login /n
+- **4624** — Successful Login 
+- **4625**  — Failed Login 
 **4720**  — A user account created
 **4722**   — A user account enabled
 **4738**  — A user account changed
