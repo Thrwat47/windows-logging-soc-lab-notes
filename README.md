@@ -2,6 +2,10 @@
 
 # Windows Logging for SOC — TryHackMe
 
+**Completed:** 09/28/2026
+
+## Overview
+
 Hands-on notes from the TryHackMe Windows Logging for SOC room.
 
 ## Objectives
@@ -61,7 +65,7 @@ Hands-on notes from the TryHackMe Windows Logging for SOC room.
 
 
 I learned how to investigate Windows activity by correlating Sysmon events across processes, files, registry changes, network connections, and DNS queries. This helped me trace malware persistence and identify its command-and-control activity.
-## Lab
+## Screenshots
 
 [TryHackMe — Windows Logging for SOC](https://tryhackme.com/room/windowsloggingforsoc)
 
