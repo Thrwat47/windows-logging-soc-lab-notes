@@ -36,14 +36,14 @@ Hands-on notes from the TryHackMe Windows Logging for SOC room.
 **4723**  — A user changed his password
 **4724**  — A user's password  reset
 **4732**  — A user was added to a security group
-**4738**  — A user was removed from a security group
+**4733**  — A user was removed from a security group
 **4688**  — Log an event every time a new process is launched, including its command line and process details
-- **1** — Process creation
-- **3** — Network connection
-- **11** — File creation
-- **12–14** — Registry changes
-- **15** — File stream hash
-- **22** — DNS query
+**1** — Process creation
+**3** — Network connection
+**11** — File creation
+**12–14** — Registry changes
+**15** — File stream hash
+**22** — DNS query
 
 ## Findings
 
