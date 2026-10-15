@@ -68,11 +68,6 @@ I learned how to investigate Windows activity by correlating Sysmon events acros
 ## Screenshots
 
 
-
-<img width="1920" height="1032" alt="Screenshot 2026-09-28 020018" src="https://github.com/user-attachments/assets/900c1f78-b589-4299-b129-57625234bc94" /><img width="1920" height="1032" alt="Screenshot 2026-09-28 020235" src="https://github.com/user-attachments/assets/b84ae808-7632-43a2-af9e-9e464504f90c" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/a52ab82a-bb25-43c6-a07c-e0732c241869" />
-
-<img width="1920" height="1032" alt="Screenshot 2026-09-28 020451" src="https://github.com/user-attachments/assets/1d8b09b3-8297-411b-a573-217fad54c04c" />
-<img width="1920" height="1032" alt="Screenshot 2026-09-28 020431" src="https://github.com/user-attachments/assets/0e5a7703-e4cd-4f59-9d16-7b23e545cc43" />
-<img width="1920" height="1032" alt="Screenshot 2026-09-28 020403" src="https://github.com/user-attachments/assets/3c049818-236d-4827-b139-5d0815b767c6" />
+<img width="1895" height="951" alt="Screenshot 2026-10-15 060734" src="https://github.com/user-attachments/assets/4d82aa8c-2562-4bbc-ad86-4b87cb91b64b" />
 
 
